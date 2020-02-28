@@ -1,0 +1,91 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:53:24 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello, this is the main page!
+there should be three page for the member. feel free to check them (if available)
+[Ryan Saputra Bachtiar|http://localhost/index.php?page=Ryan+Saputra+Bachtiar]
+[jason jonathan gozali|http://localhost/index.php?page=jason+jonathan+gozali]
+<ins>[Anastasya Syanne Titahena|http://localhost/index.php?page=Anastasya+Syanne+Titahena]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Anastasya Syanne Titahena</title>
+	  <pubDate>Fri, 28 Feb 2020 13:52:28 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Anastasya+Syanne+Titahena</link>
+	  <description><pre id="diff"><ins>who am i</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:51:44 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello, this is the main page!
+there should be three page for the member. feel free to check them (if available)
+[Ryan Saputra Bachtiar|http://localhost/index.php?page=Ryan+Saputra+Bachtiar]
+<ins>[jason jonathan gozali|http://localhost/index.php?page=jason+jonathan+gozali]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>jason jonathan gozali</title>
+	  <pubDate>Fri, 28 Feb 2020 13:50:43 +0700</pubDate>
+	  <link>http://_:80/index.php?page=jason+jonathan+gozali</link>
+	  <description><pre id="diff"><ins>help help</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:49:26 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello, this is the main page!
+there should be three page for the member. feel free to check them (if available)
+<del>[title|http://localhost/index.php?page=Ryan+Saputra+Bachtiar]</del><ins>[Ryan Saputra Bachtiar|http://localhost/index.php?page=Ryan+Saputra+Bachtiar]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:48:59 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello, this is the main page!
+there should be three page for the member. feel free to check them (if available)
+<ins>[title|http://localhost/index.php?page=Ryan+Saputra+Bachtiar]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Ryan Saputra Bachtiar</title>
+	  <pubDate>Fri, 28 Feb 2020 13:48:27 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Ryan+Saputra+Bachtiar</link>
+	  <description><pre id="diff"><ins>help</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:43:31 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Hello, this is the main page!
+there should be three page for the member. feel free to check them (if available)</ins>
+</pre></description>
+	</item>
+
+
+
+
+
+
+
+</channel>
+</rss>
